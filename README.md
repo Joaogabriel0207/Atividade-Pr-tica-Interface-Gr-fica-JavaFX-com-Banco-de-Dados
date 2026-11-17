@@ -25,7 +25,15 @@ Este projeto é um aplicativo desktop simples para gerenciar funcionários, estr
 
 ## Demonstração de Funcionamento
 
-1. **Janela base:** Mostra os campos das variaveis de que um funcionário possue, os botões CRUD e uma tabela dos funcionarios.  
+1. **Janela base:** Mostra os campos das variaveis de que um funcionário possue, os botões CRUD e uma tabela dos funcionarios.
+
+![Captura de tela 1](./Captura%20de%20tela%202026-11-16%20205929.png)
+
+![Captura de tela 2](./Captura%20de%20tela%202026-11-16%20210117.png)
+
+![Captura de tela 3](./Captura%20de%20tela%202026-11-16%20210139.png)
+
+![Captura de tela 4](./Captura%20de%20tela%202026-11-16%20210217.png)
 
 2. **Cadastrando:** Cadastro alguns funcionarios aleatoriamente.  
 
