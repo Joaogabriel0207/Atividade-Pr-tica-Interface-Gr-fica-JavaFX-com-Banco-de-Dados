@@ -29,16 +29,15 @@ Este projeto é um aplicativo desktop simples para gerenciar funcionários, estr
 
 ![Captura de tela 1](./Captura%20de%20tela%202026-11-16%20205929.png)
 
-![Captura de tela 2](./Captura%20de%20tela%202026-11-16%20210117.png)
-
-![Captura de tela 3](./Captura%20de%20tela%202026-11-16%20210139.png)
-
-![Captura de tela 4](./Captura%20de%20tela%202026-11-16%20210217.png)
-
 2. **Cadastrando:** Cadastro alguns funcionarios aleatoriamente.  
+
+![Captura de tela 2](./Captura%20de%20tela%202026-11-16%20210117.png)
 
 3. **Editando:** Um aumento foi concedido ao Roberto.  
 
-4. **Deletando:** Roberto foi demitido, seu cadastro é apagado mas seu ID permanece mas nullificado.  
+![Captura de tela 3](./Captura%20de%20tela%202026-11-16%20210139.png)
 
-5. **Cadastro:** A fim de demonstrar a sequenciea de IDs cadastro o ROberto Segunso, que ganha um ID diferente do Roberto Primeiro.
+4. **Deletando:** Roberto foi demitido, seu cadastro é apagado mas seu ID permanece mas nullificado.
+A fim de demonstrar a sequenciea de IDs cadastro o ROberto Segunso, que ganha um ID diferente do Roberto Primeiro.
+
+![Captura de tela 4](./Captura%20de%20tela%202026-11-16%20210217.png)
