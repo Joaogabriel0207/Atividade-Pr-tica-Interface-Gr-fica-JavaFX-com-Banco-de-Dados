@@ -1,0 +1,19 @@
+#BlueJ class context
+#Mon Nov 16 20:53:16 BRT 2026
+comment0.target=Funcionario
+comment1.target=Funcionario()
+comment10.params=salario
+comment10.target=void setSalario(java.lang.Double)
+comment2.params=nome cargo salario
+comment2.target=Funcionario(java.lang.String, java.lang.String, java.lang.Double)
+comment3.target=int getId()
+comment4.params=id
+comment4.target=void setId(int)
+comment5.target=java.lang.String getNome()
+comment6.params=nome
+comment6.target=void setNome(java.lang.String)
+comment7.target=java.lang.String getCargo()
+comment8.params=cargo
+comment8.target=void setCargo(java.lang.String)
+comment9.target=java.lang.Double getSalario()
+numComments=11

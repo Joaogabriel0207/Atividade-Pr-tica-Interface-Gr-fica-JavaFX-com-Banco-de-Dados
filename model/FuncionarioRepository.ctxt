@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Nov 16 20:57:36 BRT 2026
+comment0.target=FuncionarioRepository
+comment1.target=FuncionarioRepository()
+comment2.params=funcionario
+comment2.target=void salvarOuAtualizar(Funcionario)
+comment3.target=java.util.List listarTodos()
+comment4.params=funcionario
+comment4.target=void deletar(Funcionario)
+numComments=5
