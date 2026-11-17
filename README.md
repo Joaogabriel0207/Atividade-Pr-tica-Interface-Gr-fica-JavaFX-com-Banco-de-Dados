@@ -38,6 +38,6 @@ Este projeto é um aplicativo desktop simples para gerenciar funcionários, estr
 ![Captura de tela 3](./Captura%20de%20tela%202026-11-16%20210139.png)
 
 4. **Deletando:** Roberto foi demitido, seu cadastro é apagado mas seu ID permanece mas nullificado.
-A fim de demonstrar a sequenciea de IDs cadastro o ROberto Segunso, que ganha um ID diferente do Roberto Primeiro.
+A fim de demonstrar a sequenciea de IDs cadastro o Roberto Segundo, que ganha um ID diferente do Roberto Primeiro.
 
 ![Captura de tela 4](./Captura%20de%20tela%202026-11-16%20210217.png)
